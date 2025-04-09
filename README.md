@@ -6,8 +6,6 @@ https://warriomi.itch.io/galactic-grub-hub
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/bcfb0be8-e693-440c-9e45-ce9493f00779">
 <!--  <img alt="Illustrated picture of Galactic Grub Hub." src="![image](https://github.com/user-attachments/assets/6194e8d7-334b-400c-8c6f-b41ffba13948)
 ">
-</picture> -->
-![image](https://github.com/user-attachments/assets/ed0eb427-8d01-43d0-88c0-4b0f26e208d9)
 
 **Description**:
 
